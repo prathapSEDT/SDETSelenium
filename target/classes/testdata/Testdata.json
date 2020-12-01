@@ -1,0 +1,27 @@
+{
+  "TC_01": [{
+    "iteration": 1,
+    "gender": "male",
+    "firstname": "firstName",
+    "lastname": "lastname",
+    "day": "05",
+    "month": "April",
+    "year": "2018",
+    "email": "aabc@tcs.com",
+    "password": "pwdpwd",
+    "confirmpassword": "pwdpwd"
+  },
+    {
+      "iteration": 2,
+      "gender": "male",
+      "firstname": "firstName",
+      "lastname": "lastname",
+      "day": "05",
+      "month": "April",
+      "year": "2018",
+      "email": "aabc@tcs.com",
+      "password": "pwdpwd",
+      "confirmpassword": "pwdpwd"
+    }
+  ]
+}
